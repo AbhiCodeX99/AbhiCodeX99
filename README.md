@@ -17,7 +17,7 @@
 ---
 
 ### ⚡ STRATEGIC CORE (SYSTEM CAPABILITIES)
-<div align="left" style="background: #f0fdfa; padding: 20px; border-radius: 15px; border-left: 8px solid #00f2fe;">
+<div align="left" style="background: #0f172a; color: #ffffff; padding: 20px; border-radius: 15px; border-left: 8px solid #00f2fe;">
 
 - 💠 **Next-Gen Microservices:** Engineering distributed backends with Go and Node.js for elite scalability.
 - 🌌 **Three-Dimensional Interfaces:** Crafting high-fidelity WebGL and Three.js environments for immersive UX.
@@ -36,9 +36,9 @@
 
 <br/>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Activity Graph (FIXED) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiCodeX99&theme=react-light&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiCodeX99&theme=github-dark&color=00f2fe&line=00f2fe&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -54,13 +54,13 @@
 
 ### 📈 ANALYTICS ENGINE
 <div align="center">
-  <table border="0">
+  <table border="0" style="border: none; background: transparent;">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AbhiCodeX99&show_icons=true&theme=transparent&title_color=00f2fe&icon_color=00f2fe&text_color=333&bg_color=ffffff&hide_border=true" width="100%" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AbhiCodeX99&show_icons=true&theme=dark&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=0f172a&hide_border=true" width="100%" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiCodeX99&theme=transparent&border_radius=10&fire=00f2fe&ring=00f2fe&sideNums=333&stroke=00f2fe&currStreakLabel=00f2fe" width="100%" alt="GitHub Streak Stats" />
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiCodeX99&theme=dark&border_radius=10&fire=00f2fe&ring=00f2fe&sideNums=ffffff&stroke=00f2fe&currStreakLabel=00f2fe&background=0F172A" width="100%" alt="GitHub Streak Stats" />
       </td>
     </tr>
     <tr>
