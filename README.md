@@ -1,73 +1,81 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=220&section=header&text=ABHICODEX99%20%7C%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- Header Dynamic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=260&section=header&text=ABHICODEX99%20%7C%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
+<br/>
+
+<!-- Real-Time Typing Animation -->
+<a href="https://github.com/AbhiCodeX99">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&lines=PRINCIPAL+SYSTEM+ARCHITECT;FULL-STACK+GRAPHICS+%26+DISTRIBUTED+SYSTEMS+ENGINEER;3D+WEBGL+%2B+THREE.JS+SPECIALIST;CLOUD-NATIVE+MICROSERVICES+%2B+KUBERNETES;SCALABLE+HIGH-THROUGHPUT+SYSTEMS" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p align="center">
-  <strong>SYSTEM STATUS: OPERATIONAL</strong> &nbsp;•&nbsp; <strong>Full-Stack Engineer</strong> &nbsp;•&nbsp; <strong>3D Web Enthusiast</strong> &nbsp;•&nbsp; <strong>Cloud Specialist</strong>
+  <a href="#-executive-summary">Executive Summary</a> •
+  <a href="#-architectural-capabilities">Core Capabilities</a> •
+  <a href="#-technical-stack--ecosystem">Tech Stack</a> •
+  <a href="#-live-telemetry--system-metrics">System Metrics</a> •
+  <a href="#-system-architecture-matrix">Architecture Matrix</a> •
+  <a href="#-connect--telemetry">Contact</a>
+</p>
+
+<!-- Badges Row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-OPERATIONAL-00f2fe?style=for-the-badge&logo=prometheus&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-Principal_Architect-101827?style=for-the-badge&logo=gnubash&logoColor=00f2fe" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-3D_WebGL_|_Distributed_Backends-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_|_Kubernetes_|_Docker-101827?style=for-the-badge&logo=amazon-aws&logoColor=00f2fe" alt="Cloud" />
 </p>
 
 </div>
 
 ---
 
-### ⚡ STRATEGIC CORE & CAPABILITIES
+## 📌 Executive Summary
 
-- **Distributed Backends:** Architecting robust, high-throughput microservices utilizing Go and Node.js.
-- **Immersive 3D Environments:** Engineering high-performance WebGL and Three.js interfaces for next-gen user experiences.
-- **Performance Optimization:** Streamlining runtime execution, memory footprint, and low-latency asset delivery.
-- **Hardened Infrastructure:** Deploying scalable, containerized production environments via Docker, Kubernetes, and AWS.
-- **Interface Synthesis:** Translating complex architectural design systems into responsive, production-grade frontend logic.
+Full-Stack Engineer and System Architect specializing in distributed backend infrastructure, high-performance WebGL 3D web applications, and resilient cloud-native ecosystems. Dedicated to building mission-critical software solutions with zero-downtime deployments, sub-millisecond API latencies, and ultra-responsive user interfaces.
 
----
-
-### 🛠️ TECH STACK ECOSYSTEM
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,aws,figma,threejs,git,linux,postman,vscode,github,npm&theme=light&perline=10" />
-  </a>
-</p>
+* **Core Focus:** High-Throughput Distributed Microservices, WebGL Engine Optimization, Low-Latency Web Architecture.
+* **Engineering Standards:** Test-Driven Development (TDD), CI/CD Automation, Clean Code Architecture, Infrastructure as Code (IaC).
+* **Current R&D:** Real-Time Ray Tracing via WebGPU, Distributed Event-Driven Architecture with NATS/Kafka, Distributed Cache Topologies.
 
 ---
 
-### 📈 ANALYTICS & METRICS
+## 💻 Live System Console & Animation
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AbhiCodeX99&show_icons=true&theme=transparent&title_color=00f2fe&icon_color=00f2fe&text_color=333&bg_color=ffffff&hide_border=true&count_private=true" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiCodeX99&theme=transparent&border_radius=10&fire=00f2fe&ring=00f2fe&sideNums=333&stroke=00f2fe&currStreakLabel=00f2fe" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhiCodeX99&theme=react-light&area=true&hide_border=true" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="Terminal Coding Animation" />
 </div>
 
 ---
 
-### 🛰️ GLOBAL CONTRIBUTION GRID
+## ⚡ Architectural Capabilities
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Backend Engineering & Cloud Infrastructure
+* **Distributed Microservices:** Designing fault-tolerant microservice architectures using **Go** and **Node.js** with gRPC and RESTful protocols.
+* **Database Optimization:** High-availability database clusters (**PostgreSQL**, **MongoDB**, **Redis**) with custom caching strategies and partition routing.
+* **Container Orchestration:** End-to-end container management using **Docker**, **Kubernetes (K8s)**, Helm charts, and Service Meshes.
+* **CI/CD Pipelines:** Automated build, test, and zero-downtime deployment workflows with GitHub Actions and AWS EKS.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 High-Performance Frontend & 3D WebGL
+* **3D Graphics Synthesis:** Developing immersive, high-FPS interactive 3D web environments using **Three.js**, **WebGL**, and Custom Shaders (GLSL).
+* **Reactive Web Frameworks:** Advanced application architecture using **React**, **Next.js**, and state-management protocols (Zustand, Redux Toolkit).
+* **Asset Optimization:** Custom pipeline workflows for GLTF/GLB 3D model compression, texture streaming, and memory management.
+* **Design Engineering:** Pixel-perfect UI/UX implementation directly from complex Figma design systems into reactive code.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 ESTABLISH CONNECTION
-
-<p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=120&section=footer&reversal=true" width="100%" />
-</div>
+## 🛠️ Technical Stack & Ecosystem
