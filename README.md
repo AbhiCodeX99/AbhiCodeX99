@@ -1,48 +1,84 @@
 <div align="center">
 
-  <!-- TOP HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=280&section=header&text=ABHICODEX99%20|%20SYSTEM%20ARCHITECT&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=ABHICODEX99%20|%20SYSTEM%20ARCHITECT&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <br/>
+<br/>
 
-  <!-- BADGE STATUS BAR -->
-  <p align="center">
-    <a href="https://github.com/AbhiCodeX99">
-      <img src="https://img.shields.io/badge/SYSTEM%20STATUS-OPERATIONAL-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black" alt="System Status" />
-    </a>
-    <a href="https://github.com/AbhiCodeX99">
-      <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%209-0f172a?style=for-the-badge&logo=shield&logoColor=00f2fe" alt="Clearance Level" />
-    </a>
-    <a href="https://github.com/AbhiCodeX99">
-      <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%26%203D%20ENGINEER-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Role" />
-    </a>
-    <a href="https://github.com/AbhiCodeX99">
-      <img src="https://img.shields.io/badge/LOCATION-GLOBAL%20%2F%20REMOTE-0f172a?style=for-the-badge&logo=planetscale&logoColor=00f2fe" alt="Location" />
-    </a>
-  </p>
+> **`SYSTEM STATUS: OPERATIONAL`** • **Full-Stack Engineer** • **3D Web Enthusiast** • **Cloud Specialist**
 
-  <br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400px"/>
 
-  <!-- MAIN TERMINAL HEADER -->
-  <table>
-    <tr>
-      <td align="center" width="800">
-        <h3><code>⚡ root@abhicodex99:~# init_session --profile=executive</code></h3>
-        <p>Architecting scalable distributed microservices, WebGL/Three.js spatial user interfaces, and hardened cloud infrastructure with high-availability targets (99.99% SLA).</p>
-      </td>
-    </tr>
-  </table>
+---
 
-  <br/>
+### ⚡ STRATEGIC CORE (SYSTEM CAPABILITIES)
+<div align="left" style="background: #f0fdfa; padding: 20px; border-radius: 15px; border-left: 8px solid #00f2fe;">
 
-  <!-- HERO GIF DISPLAY -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480px" style="border-radius: 12px; border: 2px solid #00f2fe;" alt="Cybernetic Code Visual" />
+* 💠 **Next-Gen Microservices:** Engineering distributed backends with Go and Node.js for elite scalability.
+* 🌌 **Three-Dimensional Interfaces:** Crafting high-fidelity WebGL and Three.js environments for immersive UX.
+* 🚀 **Full-Throttle Performance:** Optimizing runtime execution and asset delivery for instant-load experiences.
+* 🛡️ **Hardened Infrastructure:** Deploying secure, containerized environments using Docker, K8s, and AWS.
+* 🎨 **Advanced UI Synthesis:** Transforming high-concept Figma designs into reactive, pixel-perfect logic.
 
 </div>
 
+---
+
+### 🕹️ LIVE SYSTEM CONSOLE (GLOBAL INTERFACE)
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200&h=400" style="border-radius: 20px; border: 4px solid #00f2fe; box-shadow: 0px 0px 40px rgba(0, 242, 254, 0.6);" width="100%" />
+</div>
+
 <br/>
-<hr/>
 
-## 🎯 EXECUTIVE SUMMARY & CORE ARCHITECTURE
+---
 
-<div align="left" style="background-color: #0f172a; padding: 25px; border-radius: 15px; border-left: 8px solid #00f2fe; color: #f8fafc;">
+### 🛠️ TECH STACK ECOSYSTEM
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,aws,figma,threejs,git,linux,postman,vscode,github,npm&theme=light&perline=10" />
+  </a>
+</p>
+
+---
+
+### 📈 ANALYTICS ENGINE
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AbhiCodeX99&show_icons=true&theme=transparent&title_color=00f2fe&icon_color=00f2fe&text_color=333&bg_color=ffffff&hide_border=true" width="100%" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiCodeX99&theme=transparent&border_radius=10&fire=00f2fe&ring=00f2fe&sideNums=333&stroke=00f2fe&currStreakLabel=00f2fe" width="100%" /></td>
+    </tr>
+    <tr>
+       <td colspan="2">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=CORE+ARCHITECT:+REACT+|+NODE+|+THREE.JS;DEPLOYING:+DOCKER+|+AWS+|+K8S;BUILDING+THE+FUTURE+OF+THE+WEB..." alt="Skills" />
+       </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎥 FEATURED 3D ARCHITECTURE
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1200&h=500" style="border-radius: 20px; border: 4px solid #00f2fe; box-shadow: 0px 0px 50px rgba(0, 242, 254, 0.8);" width="100%" />
+</div>
+
+---
+
+### 🛰️ GLOBAL CONTRIBUTION GRID
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
+
+---
+
+### 🤝 ESTABLISH CONNECTION
+<p align="center">
+<a href="mailto:ab6389040@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abhishek-patel-89998231b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://my-portfolio-five-psi-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=150&section=footer&reversal=true" width="100%" />
+
+</div>
